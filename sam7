@@ -1,0 +1,20 @@
+POST /AccSoft/Login.aspx HTTP/2
+Host: accsoft.samglobaluniversity.ac.in
+Cookie: _ga_K7ZGE2MZN2=GS1.1.1687328497.1.0.1687328497.60.0.0; _ga=GA1.3.2032165372.1687328498; npfwg=1; npf_r=https://www.google.com/; npf_l=www.samglobaluniversity.ac.in; npf_u=https://www.samglobaluniversity.ac.in/; _gid=GA1.3.1382394830.1687328505
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+X-Microsoftajax: Delta=true
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Content-Length: 1646
+Origin: https://accsoft.samglobaluniversity.ac.in
+Referer: https://accsoft.samglobaluniversity.ac.in/AccSoft/Login.aspx
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+ctl00%24ScriptManager1=ctl00%24cph1%24UpdatePanel4%7Cctl00%24cph1%24btnLogin&__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwUKMTY5NjY1MDgyOQ9kFgJmD2QWAgIDD2QWBAIHD2QWBgIPDxYCHgdWaXNpYmxlZxYCZg9kFgICAQ8WAh4Dc3JjBRRpbWFnZXMvc2FtX2xvZ28xLnBuZ2QCFQ9kFgJmD2QWAgIBD2QWAgIDD2QWAmYPZBYCAgMPDxYCHwBnZGQCFw9kFgJmD2QWAgIBD2QWBAIED2QWAmYPZBYCAgMPDxYCHwBoZGQCBg9kFgJmD2QWAgIBD2QWAmYPZBYCAgEPZBYEZg9kFgJmD2QWAgIBD2QWAmYPZBYCAgEPEA8WBh4NRGF0YVRleHRGaWVsZAUHRmluWWVhch4ORGF0YVZhbHVlRmllbGQFCUZpblllYXJJRB4LXyFEYXRhQm91bmRnZBAVBgotLVNlbGVjdC0tCjIwMjMtMjAyNCAKMjAyMi0yMDIzIAoyMDIxLTIwMjIgCjIwMjAtMjAyMSAKMjAxOS0yMDIwIBUGATABNQE0ATMBMgExFCsDBmdnZ2dnZxYBAgFkAgEPZBYCZg9kFgICAQ9kFgJmD2QWAgIBDxBkZBYAZAIJDw8WAh4EVGV4dAULMTQtSnVuLTIwMjNkZGTBF21UW%2BnoYf6FiE%2BFP%2B7msihCYyX5hsGHdiae3Nrv3w%3D%3D&__VIEWSTATEGENERATOR=C559822E&__EVENTVALIDATION=%2FwEdAAi4m3gh%2FyfOnAdxrVZTIFk6Jzsl5Xq63nLpEK3%2B9Lk4HYODxP24oSCS7D%2BCpT9vdzWn%2BlZc8RKZ3UOq%2Bf1XytbZLoxjMSPelHscMb%2Bii1WyFnp6wwe9XMlE76R4LQJg0HhDWasErkBKHpH1c4fwvNwwnB9oEdF85VKj7P82ge9Y3%2BxJ4I24We%2FPkekk8dMexswcsQridr1atr5fRRzGusqn&ctl00%24cph1%24hdnusertoken=&ctl00%24cph1%24hdnRDURL=&ctl00%24cph1%24txtUsernm=hhjbj%20&ctl00%24cph1%24hdnIPINfo=%7B%0A%20%20%22status%22%3A%20429%2C%0A%20%20%22error%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Rate%20limit%20exceeded%22%2C%0A%20%20%20%20%22message%22%3A%20%22Upgrade%20to%20increase%20your%20usage%20limits%20at%20https%3A%2F%2Fipinfo.io%2Fpricing%2C%20or%20contact%20us%20via%20https%3A%2F%2Fipinfo.io%2Fcontact%22%0A%20%20%7D%0A%7D&ctl00%24cph1%24hdnToken=7113e598ff6e59&ctl00%24cph1%24txtPassword=jbvgh&__ASYNCPOST=true&ctl00%24cph1%24btnLogin=Login%20%3E%3E
