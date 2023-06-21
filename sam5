@@ -1,0 +1,20 @@
+POST /AccSoft/StudentLogin.aspx HTTP/2
+Host: accsoft.samglobaluniversity.ac.in
+Cookie: _ga_K7ZGE2MZN2=GS1.1.1687328497.1.0.1687328497.60.0.0; _ga=GA1.3.2032165372.1687328498; npfwg=1; npf_r=https://www.google.com/; npf_l=www.samglobaluniversity.ac.in; npf_u=https://www.samglobaluniversity.ac.in/; _gid=GA1.3.1382394830.1687328505
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+X-Microsoftajax: Delta=true
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Content-Length: 1561
+Origin: https://accsoft.samglobaluniversity.ac.in
+Referer: https://accsoft.samglobaluniversity.ac.in/AccSoft/StudentLogin.aspx
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+ctl00%24ScriptManager1=ctl00%24cph1%24UpdatePanel5%7Cctl00%24cph1%24btnStuLogin&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%2FwEPDwULLTE2MDI1OTUyNjEPZBYCZg9kFgICAw9kFgQCBw9kFggCDQ8WAh4HVmlzaWJsZWcWAmYPZBYCAgEPFgIeA3NyYwUUaW1hZ2VzL3NhbV9sb2dvMS5wbmdkAhEPZBYCZg9kFgICAQ8QZGQWAWZkAhMPZBYCZg9kFgICAQ8WAh8AZxYEAgMPFgIfAGdkAgUPZBYCZg9kFgICAQ9kFgJmD2QWAgIBD2QWBGYPZBYCZg9kFgICAQ9kFgJmD2QWAgIBDxBkZBYAZAIBD2QWAmYPZBYCAgMPFgIeBVZhbHVlBQMxMzNkAhUPZBYCZg9kFgICAQ8WAh8AaBYCAgQPZBYCZg9kFgICAQ9kFgJmD2QWAgIBD2QWBGYPZBYCZg9kFgICAQ9kFgJmD2QWAgIBDxAPFgYeDURhdGFUZXh0RmllbGQFB0ZpblllYXIeDkRhdGFWYWx1ZUZpZWxkBQlGaW5ZZWFySUQeC18hRGF0YUJvdW5kZ2QQFQYKLS1TZWxlY3QtLQoyMDIzLTIwMjQgCjIwMjItMjAyMyAKMjAyMS0yMDIyIAoyMDIwLTIwMjEgCjIwMTktMjAyMCAVBgEwATUBNAEzATIBMRQrAwZnZ2dnZ2cWAQIBZAIBD2QWAmYPZBYCAgEPZBYCZg9kFgICAQ8QZGQWAGQCCQ8PFgIeBFRleHQFCzE0LUp1bi0yMDIzZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEGN0bDAwJGNwaDEkY2hrb3TopfaGaFuJAEngWEbq6gmr%2BKU1seOPm3nWOSqIJhROcg%3D%3D&__VIEWSTATEGENERATOR=7632F5F3&__EVENTVALIDATION=%2FwEdAAqUF7KXiQY8jBwcU2vDjuzEseDjO4OjzzusyZ26WwJoA%2BzQjwyf5g%2B4ezBNg2ywlcSjjWGi3txshLAmmT4JdN7fK07E9QiEVcg0FYyK8QuVpoODxP24oSCS7D%2BCpT9vdzVWRY5uqcphA2smPJPFzLHn%2Bmo9SV2v%2FSHtiocBMWq7cFC6OX%2FstO%2B%2B15rCDB7g4Wvu6Lub2srira%2Bf5x0vKRpFRIhVJvF0SwXGlAIkf7Zs2Xo%2FkTXsk71v1kwnh2vTAAU%3D&ctl00%24cph1%24rdbtnlType=2&ctl00%24cph1%24hdnSID=&ctl00%24cph1%24hdnSNO=&ctl00%24cph1%24hdnRDURL=&ctl00%24cph1%24txtStuUser=jnkkml%2Cl%2C&ctl00%24cph1%24txtStuPsw=%2Cmnmk&ctl00%24cph1%24chkot=on&__ASYNCPOST=true&ctl00%24cph1%24btnStuLogin=Login%20%3E%3E
